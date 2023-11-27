@@ -24,4 +24,4 @@ Sentiment Analysis is a project that involves analyzing customer satisfaction an
 
 ## Requirements
 
-- 
+- A developer must be able to scan a keyword or sentence to add its analysis to the visualization.
