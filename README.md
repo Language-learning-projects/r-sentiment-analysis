@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # R sentiment analysis
 
 This repository contains code of a learning project called: "R sentiment analysis".
